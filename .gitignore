@@ -1,0 +1,4 @@
+.nuget/
+.vs/
+bin/
+obj/
